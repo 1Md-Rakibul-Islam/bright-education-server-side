@@ -1,0 +1,30 @@
+[
+    {
+      "id": "01",
+      "name": "Web Development"
+    },
+    {
+      "id": "02",
+      "name": "Networking and It-Support"
+    },
+    {
+      "id": "03",
+      "name": "Spoken Language"
+    },
+    {
+      "id": "04",
+      "name": "Computer Scince"
+    },
+    {
+      "id": "05",
+      "name": "Islamic Studies"
+    },
+    {
+      "id": "06",
+      "name": "Grapics Design"
+    },
+    {
+      "id": "07",
+      "name": "All Course"
+    }
+  ]
