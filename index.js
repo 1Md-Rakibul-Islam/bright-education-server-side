@@ -8,10 +8,14 @@ app.use(cors());
 const categories = require('./data/categories.json');
 const allCourse = require('./data/course.json');
 
-
 // categories data response
 app.get('/categories', (req, res) => {
     res.send(categories)
+})
+
+// course data response
+app.get('/course', (req, res) => {
+    res.send(allCourse)
 })
 
 
